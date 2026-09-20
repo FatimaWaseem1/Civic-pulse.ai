@@ -10,10 +10,8 @@
 
 ---
 
-## 🎯 The Problem & The Solution
-
-### **The Problem**
-* **Sluggish Policy Evaluation:** Traditional parliamentary impact assessments rely on manual consultations and static reports that take months to complete.
+## 🎯 The Problem & The Solution## **The Problem**
+Sluggish Policy Evaluation: Traditional parliamentary impact assessments rely on manual consultations and static reports that take months to complete.
 * **Unintended Regional Disparities:** Uniform national policies frequently cause unexpected economic burdens in specific regions or high-growth sectors.
 * **Opaque Audit Trails:** Legislative revisions and simulation models lack immutable provenance, creating risk around policy tampering or selective reporting.
 
